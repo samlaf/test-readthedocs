@@ -11,12 +11,12 @@ Welcome to example_pkg's documentation!!!!
    :caption: Contents:
 
    test
-   _modules/modules
 
-hello there :math:`lambda`!
+.. autosummary::
+   :toctree: _autosummary
+   :recursive:
 
-.. automodule:: foo
-	:members:
+   example_pkg
 
 Indices and tables
 ==================
