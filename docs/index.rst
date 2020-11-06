@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Welcome to example_pkg's documentation!!!!
-=======================================
+==========================================
 
 .. toctree::
    :maxdepth: 2
@@ -14,12 +14,6 @@ Welcome to example_pkg's documentation!!!!
 
 hello there :math:`lambda`!
 
-.. comment
-.. .. autosummary:
-..    :toctree: _autosummary
-..    :recursive:
-
-..    example_pkg
 
 
 Indices and tables
