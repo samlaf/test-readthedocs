@@ -5,7 +5,9 @@ def getx():
 	"""This function returns x."""
 	return x
 def setx(val):
-	"""This function sets the value of x."""
+	"""This function sets the value of x.
+
+	There's more information here..."""
 	global x
 	x = val
 def printx():
