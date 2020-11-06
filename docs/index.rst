@@ -14,7 +14,8 @@ Welcome to example_pkg's documentation!!!!
 
 hello there :math:`lambda`!
 
-
+.. automodule:: foo
+	:members:
 
 Indices and tables
 ==================
