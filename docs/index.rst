@@ -12,6 +12,8 @@ Welcome to example_pkg's documentation!
 
    test
 
+hello there :math:`lambda`!
+
 .. autosummary::
    :toctree: _autosummary
    :recursive:
