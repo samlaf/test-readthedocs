@@ -10,6 +10,8 @@ Welcome to example_pkg's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   test
+
 .. autosummary::
    :toctree: _autosummary
    :recursive:
