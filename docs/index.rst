@@ -14,11 +14,12 @@ Welcome to example_pkg's documentation!
 
 hello there :math:`lambda`!
 
-.. autosummary::
-   :toctree: _autosummary
-   :recursive:
+.. comment
+.. .. autosummary:
+..    :toctree: _autosummary
+..    :recursive:
 
-   example_pkg
+..    example_pkg
 
 
 Indices and tables
