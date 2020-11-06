@@ -11,6 +11,7 @@ Welcome to example_pkg's documentation!!!!
    :caption: Contents:
 
    test
+   _modules/modules
 
 hello there :math:`lambda`!
 
